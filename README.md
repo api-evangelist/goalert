@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GoAlert is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://goalert.me/
+GoAlert provides on‑call scheduling, automated escalations and notifications, helping teams engage the right person at the right time. The platform offers flexible alert routing, integration with monitoring tools, and a web UI for managing incidents and on‑call rotations. It aims to streamline incident response and improve reliability for engineering operations.
+
+**Areas:** On-call · Incident Management · Automation · Alerting · Scheduling · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://goalert.me/)
+- [Documentation](https://goalert.me/docs/)
+- [Support](https://goalert.me/contact/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/goalert/](https://apis.io/providers/goalert/).
